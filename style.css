@@ -1,0 +1,62 @@
+*{
+    color: white;
+}
+
+
+
+body{
+    background-color:burlywood;
+    
+}
+
+#div01{
+    display: inline;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    width: auto;   
+    height: auto; 
+    
+}
+
+.underdiv1{
+    text-align: center;
+    border: 1px solid black;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.Red{
+    background-color: red;
+    
+}
+.Green{
+    background-color: green;
+}
+.Blue{
+    background-color: blue;
+}
+.Violet{
+    background-color: violet;
+}
+
+hr{
+    
+    height: 2px;
+    background-color: black ;
+    
+}
+
+.imgdiv{
+    padding: 0%;
+    margin: 50px;
+}
+
+.imgdiv img{
+    width: 220px;
+    height: 220px;
+    align-items: center;
+}
